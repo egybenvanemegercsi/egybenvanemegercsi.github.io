@@ -17,7 +17,7 @@ h1 {
 
 .result-container {
     position: fixed;
-    width: 50%;
+    min-width: 50%;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
